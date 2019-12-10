@@ -1,0 +1,29 @@
+.fila1{
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    padding: 35px 10px ;
+    background-color: rgba(175, 1, 108, 0.884);
+    color: white;
+    text-align: center;
+}
+.opcion1{
+    background-color: rgb(255, 255, 255);
+}
+.opcion{
+    background-color: rgb(255, 255, 255);
+    padding-bottom: 35px;
+}
+.respuesta{
+    background-color: rgba(3, 0, 187, 0.699);
+    color: white;
+    text-align: center;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+img{
+    border-radius: 50%;
+}
